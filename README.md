@@ -11,3 +11,4 @@ Leet.cc - https://regex101.com/r/fjvCXQ/2
 000webhost - https://regex101.com/r/xN81rw/29
 MacTorrents - https://regex101.com/r/xN81rw/30
 Hostinger - https://regex101.com/r/xN81rw/31
+Mavic - https://regex101.com/r/xN81rw/32
