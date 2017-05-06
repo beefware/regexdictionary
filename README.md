@@ -12,3 +12,4 @@ Leet.cc - https://regex101.com/r/fjvCXQ/2
 MacTorrents - https://regex101.com/r/xN81rw/30
 Hostinger - https://regex101.com/r/xN81rw/31
 Mavic - https://regex101.com/r/xN81rw/32
+LinuxMint - https://regex101.com/r/ta2trE/1
