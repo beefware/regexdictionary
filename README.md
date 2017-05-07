@@ -14,3 +14,4 @@ Hostinger - https://regex101.com/r/xN81rw/31
 Mavic - https://regex101.com/r/xN81rw/32
 LinuxMint - https://regex101.com/r/ta2trE/1
 Hackforums - https://regex101.com/r/xN81rw/33
+AndroidForums - https://regex101.com/r/xN81rw/34
