@@ -20,3 +20,4 @@ AOL - https://regex101.com/r/xN81rw/37
 Comcast - https://regex101.com/r/xN81rw/37
 Aternos - https://regex101.com/r/LLViVG/1/
 NeoPets - https://regex101.com/r/aoYfdl/3
+HLTV - https://regex101.com/r/94w54a/1
